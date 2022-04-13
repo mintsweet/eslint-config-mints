@@ -25,11 +25,6 @@ module.exports = {
   overrides: [
     {
       files: ['**/*.ts?(x)'],
-
-      parserOptions: {
-        project: './tsconfig.json',
-      },
-
       rules: {
         '@typescript-eslint/no-floating-promises': 'error',
       },
