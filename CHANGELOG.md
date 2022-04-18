@@ -1,3 +1,9 @@
+## 2.0.2
+
+`2022-04-18`
+
+- Remove rule `@typescript-eslint/no-floating-promises`.
+
 ## 2.0.1
 
 `2022-04-13`
