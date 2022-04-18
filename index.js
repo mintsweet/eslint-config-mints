@@ -21,13 +21,4 @@ module.exports = {
       },
     ],
   },
-
-  overrides: [
-    {
-      files: ['**/*.ts?(x)'],
-      rules: {
-        '@typescript-eslint/no-floating-promises': 'error',
-      },
-    },
-  ],
 };
