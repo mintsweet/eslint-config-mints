@@ -1,3 +1,10 @@
+## 2.1.0
+
+`2022-11-18`
+
+- Remove prettier integration.
+- Update dependency version.
+
 ## 2.0.3
 
 `2022-09-27`
